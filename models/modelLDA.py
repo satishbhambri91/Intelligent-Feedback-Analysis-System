@@ -1,3 +1,5 @@
+#This file was a POC for the LDA model
+
 import os
 import gensim
 
